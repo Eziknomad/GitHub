@@ -1,0 +1,21 @@
+appmap_dir: tmp\appmap
+language: python
+name: GitHub
+packages:
+- path: tests
+- path: example_scripts
+- path: igf
+- path: emmental
+- path: rag
+- path: test_module
+- path: bertabs
+- path: transformers
+- path: seq2seq
+- path: peft
+- path: src
+- path: fsner
+- path: pabee
+- path: _pytest
+- path: nonpython
+- path: cookiecutter-template-{{cookiecutter.modelname}}
+- path: pytest
