@@ -1,4 +1,21 @@
 {
     "cmake.configureOnOpen": true,
-    "cmake.sourceDirectory": "C:/Users/kgala/OneDrive/Documents/GitHub/FeeDesktopDbus/test"
+    "cmake.sourceDirectory": "C:/Users/kgala/OneDrive/Documents/GitHub/FeeDesktopDbus/test",
+    "cmake.options.advanced": {
+        "ctest": {},
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    },
+    "cmake.options.statusBarVisibility": "visible",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
